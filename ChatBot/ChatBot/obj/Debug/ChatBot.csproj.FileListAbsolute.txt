@@ -1,0 +1,12 @@
+c:\users\alireza\documents\visual studio 2013\Projects\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+c:\users\alireza\documents\visual studio 2013\Projects\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+c:\users\alireza\documents\visual studio 2013\Projects\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+c:\users\alireza\documents\visual studio 2013\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
+c:\users\alireza\documents\visual studio 2013\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.Form1.resources
+c:\users\alireza\documents\visual studio 2013\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+c:\users\alireza\documents\visual studio 2013\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.Cache
+c:\users\alireza\documents\visual studio 2013\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+c:\users\alireza\documents\visual studio 2013\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+c:\users\alireza\documents\visual studio 2013\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.menu.resources
+c:\users\alireza\documents\visual studio 2013\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.weather.resources
+c:\users\alireza\documents\visual studio 2013\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.xchange.resources
